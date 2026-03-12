@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Science\\gradient flow method - 1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2213A841-A78A-48C8-8EA0-98CA7E878A07}|gradient flow method\\gradient flow method.pyproj|D:\\Science\\gradient flow method - 1.3\\gradient flow method\\gradient_flow_method.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2213A841-A78A-48C8-8EA0-98CA7E878A07}|gradient flow method\\gradient flow method.pyproj|solutionrelative:gradient flow method\\gradient_flow_method.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gradient_flow_method.py",
+              "DocumentMoniker": "D:\\Science\\gradient flow method - 1.3\\gradient flow method\\gradient_flow_method.py",
+              "RelativeDocumentMoniker": "gradient flow method\\gradient_flow_method.py",
+              "ToolTip": "D:\\Science\\gradient flow method - 1.3\\gradient flow method\\gradient_flow_method.py",
+              "RelativeToolTip": "gradient flow method\\gradient_flow_method.py",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAACgAAAA0AAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALlSURBVEhLrZQ/TBtXHMc/753t2PHzJRJupEpBYoDJDB4ZWNhAGUCiEh4zMLBUsFQMTDd3ccVYZfCWxWIkDAgkPDBFHiBkwyqoVSmq6N0BrX33Xoe7c3wEkoD4SE/v3\u002B/3/b5/d4IvUDncUUO94GdbeK9t6edt6WFbHrb0sKUf1ZZHKWlLD9vyKYpLgNPn5T9eypuiCZXDQ5W9LmxixBKI/KcZgUFgIKpN0hcYJNqIJPDlxfn3H281\u002BG7nTF35YtMgJhMBjYyKEWgTt5GESEIjCY1FYCx6ZOmRjYQE\u002Bc8Nds5UmO9uaiEn\u002ByJGok0shhWVWDAwGQKTpUuWrsnxn85xrQt9k/5\u002BEnGmXnipsXvy/vcJCuKaJ7JLjm7n0w52zhTZ4mYq\u002BgFc6QKXuogfFnG1He\u002BgL24mmVQAzM7OUq1WATg9PaXRaBAEAePj48zPz6OUotlssr\u002B/nzJ499urePU9LBF2ZEp8gLm5OarVKp1Oh1qtxvr6OhMTE\u002Bzt7aGU4vz8nI2NDRYWFgbT4tUrXK1wTYkMmae/3hRPaLfbNBoNyuUy09PTLC8vU6/XcRwHgK2tLYaGhlI5ni6SEz0yIsDSGongh1TEACsrK5ycnLC0tITjOIyOjnJwcNCfb7fbbG9vp3J8rfC0wtMlXF1CAplUxAD1ep3h4WHGxsZotVrs7u6yuLhIJhOlrK2tsbq6msqJxOMjig2\u002BGcdxyOfzHB8fc3R0RK1Wo9lspmIi8RJuWMLTRQQt36Qi4ldULpcJgoCLi4vUNMDIyAhKqdRxJfz44Zfo/AmRwnTuNHgorw/eYIkAK/qZDHxoj4SrFV4YXbBr7nkH30JywZ5WuKH97vENwuSJ2i0/8\u002BynOw2MMbeWr\u002BHqEv9o1fo7J2Z2K1P\u002BnQZCiFvL1/C0av1ZeDpzWJnygce/g3\u002Bvns/8Van4Sf/zZ/pgRIve5QxTL/riPN4ObhcnNghuDt6Pu8WJDeoPNAkwvP2SOMD/Goplv5eeFZIAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-02-19T12:20:48.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
